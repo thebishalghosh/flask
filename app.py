@@ -6,10 +6,10 @@ app = Flask(__name__)
 
 # Database configuration
 db_config = {
-    'host': 'localhost',
-    'user': 'root',
-    'password': '',
-    'database': 'demo2'
+    'host': 'http://sql12.freesqldatabase.com/',
+    'user': 'sql12784830',
+    'password': 'sqCglBq6Xi',
+    'database': 'sql12784830'
 }
 
 def get_db_connection():
