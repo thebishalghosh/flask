@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Database configuration
 db_config = {
-    'host': 'http://sql12.freesqldatabase.com/',
+    'host': 'sql12.freesqldatabase.com',
     'user': 'sql12784830',
     'password': 'sqCglBq6Xi',
     'database': 'sql12784830'
